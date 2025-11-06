@@ -1,1 +1,2 @@
-// this is going to be the main file which would basically call the handling on the program that I'm trying to do.
+// this is going to be the main file which would basically call the handling on the program that I'm trying to do. 
+//TODO implement a simple but also cool to do list adder from CLI into an array then push that array back out to the terminal with a cool terminal Interface. 
