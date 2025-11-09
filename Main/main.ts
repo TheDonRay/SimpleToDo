@@ -5,4 +5,6 @@ require('../Functions'); // had to install npm i --save-dev @types/node
 
 // imported the functions folder so it should use all the files inside that function folder. 
 // we can call in the main the entire set of functions in order to start the program off. 
+require('../Functions/F1.ts'); 
+
 
