@@ -11,8 +11,12 @@ const rl = readline.createInterface({
 let tasks : string[] = []; // empty array that is instantiated 
 
 //Ask user question 
-rl.question('How many Tasks do you have to do today?', (tasks : string) => { 
-    console.log(`${tasks}`);
+rl.question('How many Tasks do you have to do today?', (userAnswer : string) => { 
+    console.log(userAnswer); 
+
+    // push the task stuff into the array here 
+    
+
     rl.close(); 
 }) 
 
